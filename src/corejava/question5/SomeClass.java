@@ -4,7 +4,7 @@ public class SomeClass {
 
 	 
 
-    public int number = 10;
+    public static int number = 10;
 
  
 

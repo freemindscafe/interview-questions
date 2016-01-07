@@ -1,0 +1,14 @@
+How will you design, and what data structure will you use for a contact list in a cell Phone. It should support insert/modify/delete/search functionality like that provided in a cell phone. 
+Suppose some of the entries are 
+
+Aman 
+Amazon
+Neha Aman 
+
+and we type 'ama' 
+then the result should show all the above three enteries. 
+
+
+
+
+

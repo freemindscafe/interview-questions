@@ -1,0 +1,5 @@
+Consider sorted singly linked list having following nodes 
+
+10->30->50->70->NULL 
+
+You are given pointer to node 50 and a new node having value 40. Can you inserted node 40 correctly in the list maintaining the ascending order?
